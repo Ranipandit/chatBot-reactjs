@@ -1,0 +1,35 @@
+.inp{
+    width:80%;
+    padding:10px;
+    margin-top: 500px;
+    border-radius:20px;
+    bottom: 10px;
+    position: fixed;
+    left: 38px;
+}
+.btn{
+    padding: 8px;
+    width:100px;
+    border-radius: 14px;
+    font-size: 20px;
+    bottom: 10px;
+    position: fixed;
+    right:98px;
+    border:1px solid gray;
+}
+.user{
+    color:darkblue;
+    background-color: lightgreen;
+    text-align: left;
+    font-size:24px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.bot{
+    color:darkblue;
+    background-color: pink;
+    text-align: left;
+    font-size:24px;
+    padding: 10px;
+    border-radius: 5px;
+}
