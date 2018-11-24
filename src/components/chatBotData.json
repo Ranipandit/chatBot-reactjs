@@ -12,10 +12,22 @@
     "no I will not tell you": "please please",
     "no I am not telling you": "please......",
     "ok I am student": " o really",
-    "yes": "smile.....",
+    "no": "smile.....",
     "when you will sleep": "after you",
     "I am going to sleep now": "ok goodnight",
     "no I am not sleeping": "ok I am also not sleeping",
     "you are the cheater": "you are the biggest cheater",
-    "cheater": "same to you my friend"
+    "cheater": "same to you my friend",
+    "hey":"yes any help you want",
+    "yes":"What kind of help??",
+    "no I don't need any help right now":"ok no problem",
+    "I am getting bore" : "I will ask one  question that why people are getting bore in this world",
+    "I don't know": "ok no worries!!!! I will tell you....",
+    "okay":"because in present time people are so busy they  dont have  time to do something interesting",
+    "thank you":"your most welcome my friend",
+    "nice to meet you": "nice to meet you too yr...",
+    "you are funny so funny":"I know that....",
+    "oh really":"100 percentage sure",
+    "you are fool":"same to you"
+
 }
