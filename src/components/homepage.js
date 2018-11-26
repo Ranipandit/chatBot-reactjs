@@ -46,6 +46,7 @@ class Home extends React.Component {
     });
     return(
       <div style={{margin: '20px 20% 20px 20%'}}>
+        <h1>Lets do chat with the bot...</h1>
         <div>{chats}</div>
         <input type="text" className="inp" placeholder="write comment..." onChange={this.addMassage} value={this.state.addMsg}/>
         <button className="btn" onClick={this.inpAppend} >send</button >
